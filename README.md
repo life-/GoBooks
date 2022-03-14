@@ -1,4 +1,4 @@
-Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/dariubs/GoBooks/actions/workflows/main.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Go Books [![Build Status](https://github.com/life-/GoBooks/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/life-/GoBooks/actions/workflows/main.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
@@ -540,7 +540,7 @@ Resources
 
 Contributing
 ====
-Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules](https://github.com/life-/GoBooks/blob/master/CONTRIBUTING.md)!
 
 License
 ====
